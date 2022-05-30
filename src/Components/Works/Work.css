@@ -1,0 +1,19 @@
+.Works{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    margin-top: 4rem;
+}
+.w-right{
+    position: relative;
+
+}
+.w-mainCircle{
+    left: 9rem;
+    position: relative;
+    width: 19rem;
+    height: 19rem;
+    background-color: beige;
+    border-radius: 100%;
+    /* box-shadow: var(--smboxShadow); */
+}
